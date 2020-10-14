@@ -1,2 +1,1 @@
-apple
-hugyfhdfg
+insert into new_db.b values (6,5,6,7);
