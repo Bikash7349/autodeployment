@@ -1,1 +1,1 @@
-insert into new_db.b values (19,5,6,7);
+insert into new_db.b values (20,5,6,7);
