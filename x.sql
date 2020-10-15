@@ -1,1 +1,1 @@
-insert into `new_table` (`INVOICE`,`TOTAL`,`object`) values('38','23','23');
+insert into `new_table` (`INVOICE`,`TOTAL`,`object`) values('40','23','23');
