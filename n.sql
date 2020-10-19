@@ -1,1 +1,1 @@
-insert into b values (63,5,6,7);
+insert into b values (68,5,6,7);
