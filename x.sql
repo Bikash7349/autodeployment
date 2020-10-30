@@ -1,1 +1,1 @@
-insert into `new_table` (`INVOICE`,`TOTAL`,`object`) values('69','23','23') ;
+create table xyz1.xyz2 (id int,name varchar(20));
